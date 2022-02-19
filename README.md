@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning SpringBoot, Microservices, Python 
 - 📫 How to reach me ganesa.tech@gmail.com, https://twitter.com/ganesaprabu_n
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ganesaprabu&show_icons=true)
+
 <!---
 ganesaprabu/ganesaprabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
