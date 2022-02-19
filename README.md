@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning SpringBoot, Microservices, Python 
 - 📫 How to reach me ganesa.tech@gmail.com, https://twitter.com/ganesaprabu_n
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=ganesaprabu)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesaprabu&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ganesaprabu&show_icons=true)
