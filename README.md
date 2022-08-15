@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganesaprabu
 - 👀 I’m interested in Java, Python, Design, Node.js, Angular
-- 🌱 I’m currently learning SpringBoot, Design principles, Microservices, Python 
+- 🌱 I’m currently learning SpringBoot, Design principles, Microservices, Python, JUnit 
 - 📫 How to reach me ganesa.tech@gmail.com, https://twitter.com/ganesaprabu_n
 
 <!---
